@@ -1,0 +1,11 @@
+D:\csh mod 8\other\Testirovanie_lab1\bin\Debug\Testirovanie_lab1.exe.config
+D:\csh mod 8\other\Testirovanie_lab1\bin\Debug\Testirovanie_lab1.exe
+D:\csh mod 8\other\Testirovanie_lab1\bin\Debug\Testirovanie_lab1.pdb
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.csproj.AssemblyReference.cache
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.csproj.SuggestedBindingRedirects.cache
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.Form1.resources
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.Properties.Resources.resources
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.csproj.GenerateResource.cache
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.csproj.CoreCompileInputs.cache
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.exe
+D:\csh mod 8\other\Testirovanie_lab1\obj\Debug\Testirovanie_lab1.pdb
